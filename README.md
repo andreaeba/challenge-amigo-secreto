@@ -2,7 +2,7 @@
 
 Este proyecto es un challenge del Módulo Principiante en Programación G8 del Programa Oracle Next Education (ONE), impulsado por Oracle y desarrollado en colaboración con la Academia Alura.
 
-📌 Descripción
+<h2>📌 Descripción</h2>
 
 Este challenge consiste en una aplicación web que permite:
 
@@ -10,14 +10,14 @@ Este challenge consiste en una aplicación web que permite:
 
 - Sortear aleatoriamente un amigo secreto mediante el botón "Sortear amigo".
 
-🚀 Funcionalidades
+<h2>🚀 Funcionalidades</h2>
 
 ✅ Agregar amigos a la lista mediante un formulario.
 ✅ Visualizar la lista de amigos agregados.
 ✅ Realizar el sorteo de un amigo secreto de manera aleatoria.
 ✅ Interfaz sencilla y fácil de usar.
 
-🛠️ Tecnologías utilizadas
+<h2>🛠️ Tecnologías utilizadas</h2>
 
 Este proyecto fue desarrollado utilizando las siguientes tecnologías:
 
@@ -27,7 +27,7 @@ CSS3
 
 JavaScript
 
-📥 Instalación y ejecución
+<h2>📥 Instalación y ejecución</h2>
 
 Clona este repositorio en tu máquina local:
 
@@ -39,15 +39,15 @@ cd amigo-secreto
 
 Abre el archivo index.html en tu navegador.
 
-📚 Sobre el Programa Oracle Next Education (ONE)
+<h2>📚 Sobre el Programa Oracle Next Education (ONE)</h2>
 
 El Programa Oracle Next Education (ONE) es una iniciativa de Oracle en alianza con la Academia Alura que busca capacitar a nuevos talentos en tecnología. Puedes conocer más en los siguientes enlaces:
 
-Oracle Next Education
+<a href="https://www.oracle.com/ar/education/oracle-next-education/"> Oracle Next Education </a>
 
-Alura Cursos
+<a href="https://www.aluracursos.com/">Alura Cursos</a>
 
-📄 Licencia
+<h2>📄 Licencia</h2>
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT. ¡Siéntete libre de contribuir y mejorar la aplicación! 🚀
 
